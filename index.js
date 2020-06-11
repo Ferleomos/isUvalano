@@ -1,5 +1,5 @@
-function isUvalano(input) {
-  return input === 'Uvalano';
+function isUvalano (input) {
+  return input === 'Uvalano'
 }
 
-module.exports = isUvalano;
+module.exports = isUvalano
