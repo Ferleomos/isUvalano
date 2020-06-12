@@ -1,5 +1,5 @@
 function isUvalano (input) {
-  return input === 'Uvalano'
+  return input === 'Uvalano';
 }
 
 module.exports = isUvalano
